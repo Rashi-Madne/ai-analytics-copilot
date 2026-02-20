@@ -1,0 +1,19 @@
+total revenue last month
+
+top 5 customers by revenue
+
+sales by country
+
+daily revenue trend
+
+average order value
+
+returning customers count
+
+most popular product
+
+churn rate by month
+
+new users last 30 days
+
+revenue by category

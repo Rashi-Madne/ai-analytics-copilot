@@ -1,0 +1,21 @@
+Table name: analytics
+
+Columns:
+
+Row ID – unique row number
+Order ID – order identifier
+Order Date – date of purchase
+Date Key – numeric date id
+Contact Name – customer contact person
+Region – geographic region
+Subregion – sub area
+Customer – customer name
+Customer ID – unique id of customer
+Industry – business industry
+Segment – customer segment
+Product – product name
+License – license type
+Sales – revenue amount
+Quantity – number of units sold
+Discount – discount applied
+Profit – profit from order
